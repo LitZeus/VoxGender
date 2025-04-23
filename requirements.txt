@@ -1,0 +1,7 @@
+torch
+torchaudio
+pysoundfile
+huggingface_hub
+safetensors
+gradio
+numpy
